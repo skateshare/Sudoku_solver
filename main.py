@@ -6,7 +6,7 @@ window = tk.Tk()
 window.title("October's Sudoku finder  (V_20200515)")
 window.geometry('470x400')
 window.configure(background='SkyBlue1')
-
+# test
 
 class Sudoku():
     def init(self, tk):
